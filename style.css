@@ -96,6 +96,10 @@ section h1 {
     height: 100%;
 }
 
+.section_item img:hover {
+    scale: 1.2;
+}
+
 
 .projects {
     color: white;
@@ -125,5 +129,10 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
+}
+
+.use {
+    background-color: black;
     color: white;
 }
