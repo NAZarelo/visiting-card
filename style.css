@@ -29,7 +29,9 @@ header {
 }
 
 .bio {
-    width: 60%;
+    width: 100%;
+    color: rgb(255, 225, 0);
+    text-align: left;
 }
 
 
@@ -48,6 +50,16 @@ header {
 
 .header_btn:hover {
     transform: scale(1.05);
+}
+
+header h1 {
+    width: 100%;
+    color: rgb(255, 225, 0);
+    text-align: left;
+}
+
+i {
+    color: rgb(255, 225, 0);
 }
 
 main {
